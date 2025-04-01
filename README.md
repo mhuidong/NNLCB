@@ -5,7 +5,7 @@
   <img src="https://fahaihi.github.io/NNLCB/LOG.png" alt="Logo" width="821" height="350">
 </h1>
 
-# A Holistic Benchmark Evaluation for Neural-Network-Based Lossless Universal Compressors
+# [FCS '25] A Survey and Benchmark Evaluation for Neural-Network-Based Lossless Universal Compressors Toward Multi-Source Data
 
 
 ## Overview
@@ -254,6 +254,21 @@ All experiments were conducted on a GPU server equipped with 4 * Intel Xeon Silv
 <!-- ## Acknowledgements
 - Thanks to [@NCBI](https://www.freelancer.com/u/Ostokhoon) for all available datasets.
 -->
+
+## Citation
+If you mention this work in your manuscript, please add the following code to your TEX file.
+```
+@article{sun2025survey,
+  title={A survey and benchmark evaluation for neural-network-based lossless universal compressors toward multi-source data},
+  author={Sun, Hui and Ma, Huidong and Ling, Feng and Xie, Haonan and Sun, Yongxia and Yi, Liping and Yan, Meng and Zhong, Cheng and Liu, Xiaoguang and Wang, Gang},
+  journal={Frontiers of Computer Science},
+  volume={19},
+  number={7},
+  pages={1--16},
+  year={2025},
+  publisher={Springer}
+}
+```
 
 ## Additional Information
 **Source-Version-Date**   2024.03.08. 2024.03.10.
